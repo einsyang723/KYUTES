@@ -1,8 +1,0 @@
-package AB;
-
-public class Main {
-	public static void main(String[] args) {
-
-		new LoginInterface();// LoginFirst定义为登陆的界面
-	}
-}
